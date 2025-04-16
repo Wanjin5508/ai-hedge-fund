@@ -47,3 +47,5 @@ Thumbs.db
 # Txt files
 *.txt
 key.md
+.env
+.history
