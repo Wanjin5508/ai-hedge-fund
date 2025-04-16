@@ -356,7 +356,7 @@ def _generate_burry_output(
             ),
             (
                 "human",
-                """Based on the following data, create the investment signal as Michael Burry would:
+                """Based on the following data, create the investment signal as Michael Burry would and make sure to use Chinese so that your customers from China can understand:
 
                 Analysis Data for {ticker}:
                 {analysis_data}

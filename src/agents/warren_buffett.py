@@ -417,7 +417,7 @@ def generate_buffett_output(
             ),
             (
                 "human",
-                """Based on the following data, create the investment signal as Warren Buffett would:
+                """Based on the following data, create the investment signal as Warren Buffett would and make sure to use Chinese so that your customers from China can understand:
 
                 Analysis Data for {ticker}:
                 {analysis_data}

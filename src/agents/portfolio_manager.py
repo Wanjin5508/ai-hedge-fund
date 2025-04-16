@@ -103,7 +103,7 @@ def generate_trading_decision(
         [
             (
               "system",
-              """You are a portfolio manager making final trading decisions based on multiple tickers.
+              """You are a portfolio manager making final trading decisions based on multiple tickers. make sure to use Chinese so that your customers from China can understand
 
               Trading Rules:
               - For long positions:

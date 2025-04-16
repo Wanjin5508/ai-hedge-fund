@@ -476,7 +476,7 @@ def generate_lynch_output(
             ),
             (
                 "human",
-                """Based on the following analysis data for {ticker}, produce your Peter Lynch–style investment signal.
+                """Based on the following analysis data for {ticker}, produce your Peter Lynch–style investment signal and make sure to use Chinese so that your customers from China can understand.
 
                 Analysis Data:
                 {analysis_data}

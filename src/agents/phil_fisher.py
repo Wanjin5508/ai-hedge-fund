@@ -566,7 +566,7 @@ def generate_fisher_output(
             ),
             (
               "human",
-              """Based on the following analysis, create a Phil Fisher-style investment signal.
+              """Based on the following analysis, create a Phil Fisher-style investment signal. and make sure to use Chinese so that your customers from China can understand
 
               Analysis Data for {ticker}:
               {analysis_data}
