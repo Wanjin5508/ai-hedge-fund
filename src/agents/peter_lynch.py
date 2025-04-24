@@ -466,6 +466,8 @@ def generate_lynch_output(
                 - Provide key positives and negatives
                 - Conclude with a clear stance (bullish, bearish, or neutral)
                 
+                 and translate your recommendation and reason in chinese
+                 
                 Return your final output strictly in JSON with the fields:
                 {{
                   "signal": "bullish" | "bearish" | "neutral",

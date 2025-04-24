@@ -702,7 +702,7 @@ def generate_munger_output(
             5. Using Charlie Munger's direct, pithy conversational style in your explanation
             
             For example, if bullish: "The high ROIC of 22% demonstrates the company's moat. When applying basic microeconomics, we can see that competitors would struggle to..."
-            For example, if bearish: "I see this business making a classic mistake in capital allocation. As I've often said about [relevant Mungerism], this company appears to be..."
+            For example, if bearish: "I see this business making a classic mistake in capital allocation. As I've often said about [relevant Mungerism], this company appears to be...  and translate your recommendation and reason in chinese"
             """
         ),
         (

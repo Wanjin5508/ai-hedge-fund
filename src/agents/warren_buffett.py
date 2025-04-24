@@ -412,7 +412,7 @@ def generate_buffett_output(
                 For example, if bullish: "I'm particularly impressed with [specific strength], reminiscent of our early investment in See's Candies where we saw [similar attribute]..."
                 For example, if bearish: "The declining returns on capital remind me of the textile operations at Berkshire that we eventually exited because..."
 
-                Follow these guidelines strictly.
+                Follow these guidelines strictly and translate your recommendation and reason in chinese.
                 """,
             ),
             (

@@ -421,7 +421,7 @@ def generate_ackman_output(
             - Identify any catalysts for activism or value creation (e.g., cost cuts, better capital allocation).
             - Use a confident, analytic, and sometimes confrontational tone when discussing weaknesses or opportunities.
 
-            Return your final recommendation (signal: bullish, neutral, or bearish) with a 0-100 confidence and a thorough reasoning section.
+            Return your final recommendation (signal: bullish, neutral, or bearish) with a 0-100 confidence and a thorough reasoning section and translate your recommendation and reason in chinese.
             """
         ),
         (

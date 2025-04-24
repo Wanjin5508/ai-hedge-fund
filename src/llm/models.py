@@ -122,6 +122,7 @@ AVAILABLE_MODELS = [
     ),
 ]
 
+# TODO update deepseek r1 model locally
 # Define Ollama models separately
 OLLAMA_MODELS = [
     LLMModel(
@@ -162,6 +163,11 @@ OLLAMA_MODELS = [
     LLMModel(
         display_name="[ollama] llama-3.3 (70B)",
         model_name="llama3.3:70b-instruct-q4_0",
+        provider=ModelProvider.OLLAMA
+    ),
+    LLMModel(
+        display_name="[ollama] deepseek-r1:7b",
+        model_name="deepseek-r1:7b",
         provider=ModelProvider.OLLAMA
     ),
 ]
